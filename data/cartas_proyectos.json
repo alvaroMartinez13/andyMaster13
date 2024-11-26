@@ -1,0 +1,22 @@
+{
+    "carta":[
+        {
+            "tema": "Proyecto de grado OSL-UDES",
+            "titulo": "OSL-UDES",
+            "info": "Aplicación web para la gestión de contenido virtual interactivo y actividades de aprendizaje en buenas prácticas de manufactura, dirigida al programa de Bacteriología y Laboratorio Clínico de la Universidad de Santander sede Cúcuta.",
+            "image": "../Assets/images/osl_udes.png"
+        },
+        {
+            "tema": "Reina Rosa Blanca - Ajedrez",
+            "titulo": "Reina Rosa Blanca",
+            "info": "Juego desafiante y entretenido que pone a prueba las habilidades lógicas y creativas mediante el  desarrollo de estrategias cognitivas.",
+            "image": "../Assets/images/reina_roja.png" 
+        },
+        {
+            "tema": "Encanto animal - E-commerce",
+            "titulo": "Encanto animal",
+            "info": "E-commerce dedicado al bienestar de las mascotas, que ofrece tanto productos como servicios especializados. Además, permite a los dueños agendar citas y conocer de antemano al veterinario que atenderá a su mascota, brindando confianza y comodidad en cada visita.",
+            "image": "../Assets/images/encanto_animal.png" 
+        }
+    ]
+}

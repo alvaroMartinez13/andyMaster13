@@ -1,0 +1,29 @@
+{
+    "carta": [
+        {
+            "Objetivo": "Objetivo de Desarrollo Sostenible - ODS",
+            "Descripcion": "Desarrollar proyectos a favor con las ODS, aportando mis conocimientos y habilidad en pro de mitigar problemáticas.",
+            "imagen": "../Assets/images/ODS.png"
+        },
+        {
+            "Objetivo": "Enseñanza",
+            "Descripcion": "Transmitir mis conocimientos y aprendizajes a la futura juventud, aplicando mi experiencia y técnicas didácticas para una mejor enseñanza.",
+            "imagen": "../Assets/images/Enseñanza.png"
+        },
+        {
+            "Objetivo": "Aprendizaje Continuo",
+            "Descripcion": "Continuar mi aprendizaje en lo que concierna el tema de la tecnología y potenciando mis habilidades y conocimientos actuales.",
+            "imagen": "../Assets/images/aprendizaje.png"
+        },
+        {
+            "Objetivo": "Trabajo en equipo",
+            "Descripcion": "Desarrollar proyectos u compromisos en equipo, potenciando habilidades y ampliando conocimientos con gran destrezas desde en parte en parte.",
+            "imagen": "../Assets/images/trabajo_Equipo.png"
+        },
+        {
+            "Objetivo": "Innovación",
+            "Descripcion": "Aplicar mis conocimientos y nuevas técnicas generando productos innovadores y reutilizables.",
+            "imagen": "../Assets/images/Innovacion.png"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "carta":[
+        {
+            "tema": "Sobre mí",
+            "titulo": "AndyMaster13",
+            "info": "Resiliente y proactivo, con sólidas habilidades en liderazgo y trabajo en equipo, esto aporta a brindar soluciones efectivas a diferentes problemas técnicos de los proyectos en los cuáles he trabajado. Me gusta mantenerme actualizado en las diversas temáticas tecnológicas logrando así liderar equipos con un enfoque práctico y visión de futuro.",
+            "image": "../Assets/images/acerca_mi.png"
+        },
+        {
+            "tema": "Misión",
+            "titulo": "Misión",
+            "info": "Crear soluciones tecnológicas innovadoras y sostenibles que fomenten el aprendizaje continuo, impulsen la colaboración global y contribuyan al logro de los Objetivos de Desarrollo Sostenbible - ODS, empoderando a individuos y comunidades.",
+            "image": "../Assets/images/mision.png"
+        },
+        {
+            "tema": "Visión",
+            "titulo": "Visión",
+            "info": "Ser un referente en la creación de tecnologías que inspiren a las nuevas generaciones a resolver desafíos globales, promoviendo la educación, la equidad y el respeto por el medio ambiente.",
+            "image": "../Assets/images/vision.png"
+        },
+        {
+            "tema": "Valores",
+            "titulo": "Valores",
+            "info": "Proactividad, Gratitud, Perseverancia, Integridad, Valentía",
+            "image": "../Assets/images/valores.png"
+        }
+    ]
+}
